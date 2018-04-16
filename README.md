@@ -1,6 +1,6 @@
 # Awesome Open Source Organisation
 
-A list of organisation (non-profit & for-profit) that open source everything they do.
+A list of organisation (non-profit & for-profit) that open source everything they do and are still able to exist. This does not include "Open Core" product, since it is a proprietary licence.
 
 Please help me grow this list :)
 
