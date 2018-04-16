@@ -2,6 +2,8 @@
 
 The goal of this list is to hightlight organisation (in a broad meaning, it includ for-profit and non-profit) which are open sourcing everything they do under a licence that empower the user of the product. This does not include "Open Core" product, since part of the product is under a proprietary licence.
 
+In the case the organisation is providing hosting for its product, the hosted version should have the same features when self-hosted.
+
 Please help me grow this list :)
 
 ## The List
