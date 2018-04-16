@@ -1,4 +1,10 @@
-# Awesome Open Source Company
+# Awesome Open Source Organisation
+
+A list of organisation (non-profit & for-profit) that open source everything they do.
+
+Please help me grow this list :)
+
+## The List
 
 Each item should come with a link to the company page, a link to the repositories/organisation, and a small description
 
