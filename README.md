@@ -1,6 +1,8 @@
 # Awesome Open Source Organisation
 
-The goal of this list is to highlight organisations (in a broad meaning, it includes for-profit and non-profit) which are open sourcing everything they do under a licence that empowers the user of the product. This does not include "Open Core" products since part of the product is under a proprietary license.
+Some organizations/companies commitment to open-source goes as far as releasing all their products as open-source software. There are other ways of making an undertaking profitable than keeping the code proprietary, locked, hidden.
+
+The goal of this list is to highlight such organizations, which release everything they do under a licence that empowers the user of the product. This does not include "Open Core" products since part of the product is under a proprietary license.
 
 Organizations selling hosting for their product are only admitted if the self-hosted version offers all the features the paid hosted version has.
 
