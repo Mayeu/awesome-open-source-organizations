@@ -1,4 +1,4 @@
-# Awesome Open Source Organisation
+# Awesome Open Source Organization
 
 Some organizations/companies commitment to open-source goes as far as releasing all their products as open-source software. There are other ways of making an undertaking profitable than keeping the code proprietary, locked, hidden.
 
