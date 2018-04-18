@@ -14,6 +14,7 @@ Each item should come with a link to the company page, a link to the repositorie
 
 - [Discourse](https://discourse.org/), [on GitHub](https://github.com/discourse): The 100% open source discussion platform built for the next decade of the Internet.
 - [EteSync](https://www.etesync.com/), [on GitHub](https://github.com/etesync): End-to-end encrypted & journaled sync for your contacts and calendars.
+- [Framasoft](https://framasoft.org/), [on their GitLab](https://git.framasoft.org/framasoft/): a network dedicated to globally promoting "free" and particularly free software.
 - [Habitica](https://habitica.com/), [on GitHub](https://github.com/HabitRPG): a habit tracker app which treats your goals like a Role Playing Game. 
 - [Feedbin](https://feedbin.com/), [on GitHub](https://github.com/feedbin): a fast, simple RSS reader that delivers a great reading experience.
 - [Loomio](https://www.loomio.org/), [on GitHub](https://github.com/loomio): an open-source web application that helps groups of people to make decisions together.
