@@ -10,7 +10,9 @@ Please help me grow this list :)
 
 ## The List
 
-Each item should come with a link to the company page, a link to the repositories/organization, and a short description
+Each item should come with a link to the company page, a link to the repositories/organization, and a short description.
+
+The :moneybag: emoji show projects that are funded via the venture capital circuit, the :microscope: represent project that are funded via research grant, and finally the :boot: represent project that are bootstraped (they may have received or are receiving fund via other way, like kickstarter, or [Open Collective](https://opencollective.com/).)
 
 - [Discourse](https://discourse.org/), [on GitHub](https://github.com/discourse): The 100% open source discussion platform built for the next decade of the Internet.
 - [EteSync](https://www.etesync.com/), [on GitHub](https://github.com/etesync): End-to-end encrypted & journaled sync for your contacts and calendars.
@@ -20,7 +22,7 @@ Each item should come with a link to the company page, a link to the repositorie
 - [Loomio](https://www.loomio.org/), [on GitHub](https://github.com/loomio): an open-source web application that helps groups of people to make decisions together.
 - [Monica](https://www.monicahq.com/), [on GitHub](https://github.com/monicahq/monica): CRM for personal relationships.
 - [NextCloud](https://nextcloud.com/), [on GitHub](https://github.com/nextcloud): self-hosted personal cloud solution (file syncing, agenda, contact, etc.)
-- [Protocol Labs](https://protocol.ai/), on GitHub at [IPFS](https://github.com/ipfs), [libp2p](https://github.com/libp2p), [IPLD](https://github.com/ipld), [Multiformats](https://github.com/multiformats): creating open source distributed protocol for the future of the internet.
+- [Protocol Labs](https://protocol.ai/), :moneybag: [$3M](https://www.crunchbase.com/organization/protocol-labs) on GitHub at [IPFS](https://github.com/ipfs), [libp2p](https://github.com/libp2p), [IPLD](https://github.com/ipld), [Multiformats](https://github.com/multiformats): creating open source distributed protocol for the future of the internet.
 - [Rocket.Chat](https://rocket.chat/), [on GitHub](https://github.com/RocketChat): the ultimate Free Open Source Solution for team communication.
 - [Sentry](https://sentry.io), [on GitHub](https://github.com/getsentry): real-time crash reporting for your web apps, mobile apps, and games.
 
