@@ -6,7 +6,10 @@ The goal of this list is to highlight such organizations, which release everythi
 
 Organizations selling hosting for their product are only admitted if the self-hosted version offers all the features the paid hosted version has.
 
-Please help me grow this list :)
+Please help me grow this list :) You could:
+- [Add an organization](https://github.com/Mayeu/awesome-open-source-organization/blob/master/contributing.md) missing from this list
+- [Help review](https://github.com/Mayeu/awesome-open-source-organization/blob/master/contributing.md#helping-to-review-pull-pequests) the open pull requests
+- [Modify or remove](https://github.com/Mayeu/awesome-open-source-organization/blob/master/contributing.md#modifying-or-removing-an-entry) an entry
 
 ## The List
 
@@ -31,3 +34,20 @@ Please help me grow this list :)
 ## Defunct
 
 -:moneybag: Balanced, [$3.6M](https://www.crunchbase.com/organization/balanced), [on GitHub](https://github.com/balanced): a payment processing plateform
+
+## Licence
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/Mayeu/awesome-open-source-organization">
+    <span property="dct:title">Matthieu Maury and all the contributor</span></a>
+  have waived all copyright and related or neighboring rights to
+  <span property="dct:title"><strong>Awesome Open Source Organizations</strong></span>.
+</p>
+
