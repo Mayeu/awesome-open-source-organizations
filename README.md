@@ -10,9 +10,16 @@ Please help me grow this list :)
 
 ## The List
 
-Each item should come with a link to the company page, a link to the repositories/organization, and a short description.
+Each item should come with:
+- a link to the company page
+- how it was funded (see the legend)
+- a link to the repositories/organization
+- and finally a short description.
 
-The :moneybag: emoji show projects that are funded via the venture capital circuit, the :microscope: represent project that are funded via research grant, and finally the :boot: represent project that are bootstraped (they may have received or are receiving fund via other way, like kickstarter, or [Open Collective](https://opencollective.com/).)
+> Funding legend used:
+> - :moneybag:, for the venture capital circuit
+> - :microscope:, for research grants
+> - :boot:, for bootstraped or community based funding
 
 - [Discourse](https://discourse.org/), :moneybag: [seed](https://www.crunchbase.com/organization/discourse), [on GitHub](https://github.com/discourse): The 100% open source discussion platform built for the next decade of the Internet.
 - [EteSync](https://www.etesync.com/), :boot:, [on GitHub](https://github.com/etesync): End-to-end encrypted & journaled sync for your contacts and calendars.
