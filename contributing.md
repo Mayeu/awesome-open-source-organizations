@@ -34,7 +34,7 @@ Then ensure you:
 
 After that your pull request will be reviewed, and hopefully accepted :)
 
-## Helping to Review Pull Pequests
+## Helping to Review Pull Requests
 
 I would like to try to have a handfull of reviews per pull request, so if you
 have some time to spare, please check them out and help review the change
