@@ -26,6 +26,7 @@ Please help me grow this list :) You could:
 - :busts_in_silhouette: [Habitica](https://habitica.com/), [on GitHub](https://github.com/HabitRPG): a habit tracker app which treats your goals like a Role Playing Game. 
 - :boot: [Feedbin](https://feedbin.com/), [on GitHub](https://github.com/feedbin): a fast, simple RSS reader that delivers a great reading experience.
 - :boot: [Loomio](https://www.loomio.org/), [on GitHub](https://github.com/loomio): an open-source web application that helps groups of people to make decisions together.
+- :busts_in_silhouette: [Mastodon](https://joinmastodon.org), [sponsors](https://joinmastodon.org/sponsors), [on GitHub](https://github.com/tootsuite): Social networking, back in your hands.
 - :boot: [Monica](https://www.monicahq.com/), [on GitHub](https://github.com/monicahq/monica): CRM for personal relationships.
 - :boot: [NextCloud](https://nextcloud.com/), [on GitHub](https://github.com/nextcloud): self-hosted personal cloud solution (file syncing, agenda, contact, etc.)
 - :moneybag: [Protocol Labs](https://protocol.ai/), [$3M](https://www.crunchbase.com/organization/protocol-labs), on GitHub at [IPFS](https://github.com/ipfs), [libp2p](https://github.com/libp2p), [IPLD](https://github.com/ipld), [Multiformats](https://github.com/multiformats): creating open source distributed protocol for the future of the internet.
