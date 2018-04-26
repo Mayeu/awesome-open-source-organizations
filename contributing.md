@@ -27,10 +27,10 @@ Then ensure you:
 1. Create one pull request by organization you want to add.
 2. Name each pull request with 'Add ThisOrganizations', example: 'Add Feedbin'
 3. For each entry, you should provide:
-  1. a link to the company page
-  2. how it was funded (see the legend), and a link to Crunchbase if applicable
-  3. a link to the repository-ies where the organization host its source code
-  4. and finally a short description of the tool, or the organisation mission
+   1. a link to the company page
+   2. how it was funded (see the legend), and a link to Crunchbase if applicable
+   3. a link to the repository-ies where the organization host its source code
+   4. and finally a short description of the tool, or the organisation mission
 
 After that your pull request will be reviewed, and hopefully accepted :)
 
