@@ -35,7 +35,7 @@ Please help me grow this list :) You could:
 
 ## Defunct
 
--:moneybag: Balanced, [$3.6M](https://www.crunchbase.com/organization/balanced), [on GitHub](https://github.com/balanced): a payment processing plateform
+- :moneybag: Balanced, [$3.6M](https://www.crunchbase.com/organization/balanced), [on GitHub](https://github.com/balanced): a payment processing plateform
 
 ## Licence
 
