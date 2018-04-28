@@ -32,6 +32,7 @@ Please help me grow this list :) You could:
 - :moneybag: [Protocol Labs](https://protocol.ai/), [$3M](https://www.crunchbase.com/organization/protocol-labs), on GitHub at [IPFS](https://github.com/ipfs), [libp2p](https://github.com/libp2p), [IPLD](https://github.com/ipld), [Multiformats](https://github.com/multiformats): creating open source distributed protocol for the future of the internet.
 - :moneybag: [Rocket.Chat](https://rocket.chat/), [$5M](https://www.crunchbase.com/organization/rocket-chat), [on GitHub](https://github.com/RocketChat): the ultimate Free Open Source Solution for team communication.
 - :moneybag: [Sentry](https://sentry.io), [$10.5M](https://www.crunchbase.com/organization/sentry#section-overview), [on GitHub](https://github.com/getsentry): real-time crash reporting for your web apps, mobile apps, and games.
+- :boot: [Spectrum](https://spectrum.chat/), [on GitHub](https://github.com/withspectrum/spectrum): the community platform for the future.
 - :boot: [Zulip](https://zulipchat.com), [on GitHub](https://github.com/zulip/zulip): the world's most productive group chat
 
 ## Defunct
