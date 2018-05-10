@@ -25,7 +25,7 @@ through Free/Libre and Open Source Software (FLOSS).
 Make sure that you:
 
 1. Create one pull request per organization you want to add.
-2. Name each pull request with 'Add ThisOrganizations', example: 'Add Feedbin'.
+2. Name each pull request with ‘Add ThisOrganizations’, example: ‘Add Feedbin’.
 3. For each entry, you should provide:
    1. a link to the company page,
    2. how it was funded (see the legend), and a link to Crunchbase if applicable,
