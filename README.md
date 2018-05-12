@@ -35,6 +35,7 @@ Please help me grow this list :) You could:
 - :moneybag: [Sentry](https://sentry.io), [$10.5M](https://www.crunchbase.com/organization/sentry#section-overview), [on GitHub](https://github.com/getsentry): real-time crash reporting for your web apps, mobile apps, and games.
 - :boot: [Spectrum](https://spectrum.chat/), [on GitHub](https://github.com/withspectrum/spectrum): the community platform for the future.
 - :boot: [Zulip](https://zulipchat.com), [on GitHub](https://github.com/zulip/zulip): the world's most productive group chat
+- :boot: [Artsy](https://www.artsy.net), [on Github](https://github.com/artsy): the online platform for art collecting and education, which maintain a philosophy of keeping their work [Open by Default](http://artsy.github.io/open-source/).
 
 ## Defunct
 
