@@ -31,6 +31,7 @@ Please help me grow this list :) You could:
 - :boot: [NextCloud](https://nextcloud.com/), [on GitHub](https://github.com/nextcloud): self-hosted personal cloud solution (file syncing, agenda, contact, etc.)
 - :boot: [Open Whisper Systems](https://www.signal.org/), [on GitHub](https://github.com/signalapp): creating Signal, a fast, simple, and secure communication app.
 - :moneybag: [Protocol Labs](https://protocol.ai/), [$3M](https://www.crunchbase.com/organization/protocol-labs), on GitHub at [IPFS](https://github.com/ipfs), [libp2p](https://github.com/libp2p), [IPLD](https://github.com/ipld), [Multiformats](https://github.com/multiformats): creating open source distributed protocol for the future of the internet.
+- :boot: [Redash](https://redash.io/), [on GitHub](https://github.com/getredash): a tool to make sense of your data (connect your data sources, query and visualize them). 
 - :moneybag: [Rocket.Chat](https://rocket.chat/), [$5M](https://www.crunchbase.com/organization/rocket-chat), [on GitHub](https://github.com/RocketChat): the ultimate Free Open Source Solution for team communication.
 - :moneybag: [Sentry](https://sentry.io), [$10.5M](https://www.crunchbase.com/organization/sentry#section-overview), [on GitHub](https://github.com/getsentry): real-time crash reporting for your web apps, mobile apps, and games.
 - :boot: [Spectrum](https://spectrum.chat/), [on GitHub](https://github.com/withspectrum/spectrum): the community platform for the future.
