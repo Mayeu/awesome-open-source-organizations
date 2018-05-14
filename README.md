@@ -29,6 +29,8 @@ Please help me grow this list :) You could:
 - :busts_in_silhouette: [Mastodon](https://joinmastodon.org), [sponsors](https://joinmastodon.org/sponsors), [on GitHub](https://github.com/tootsuite): Social networking, back in your hands.
 - :boot: [Monica](https://www.monicahq.com/), [on GitHub](https://github.com/monicahq/monica): CRM for personal relationships.
 - :boot: [NextCloud](https://nextcloud.com/), [on GitHub](https://github.com/nextcloud): self-hosted personal cloud solution (file syncing, agenda, contact, etc.)
+- :boot: [Numenta](https://numenta.org/), privately-funded, [on GitHub](https://github.com/numenta
+): Brain-inspired machine intelligence algorithms.
 - :boot: [Open Whisper Systems](https://www.signal.org/), [on GitHub](https://github.com/signalapp): creating Signal, a fast, simple, and secure communication app.
 - :moneybag: [Protocol Labs](https://protocol.ai/), [$3M](https://www.crunchbase.com/organization/protocol-labs), on GitHub at [IPFS](https://github.com/ipfs), [libp2p](https://github.com/libp2p), [IPLD](https://github.com/ipld), [Multiformats](https://github.com/multiformats): creating open source distributed protocol for the future of the internet.
 - :moneybag: [Rocket.Chat](https://rocket.chat/), [$5M](https://www.crunchbase.com/organization/rocket-chat), [on GitHub](https://github.com/RocketChat): the ultimate Free Open Source Solution for team communication.
