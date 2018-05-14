@@ -16,7 +16,7 @@ Please help me grow this list :) You could:
 > Funding legend used:
 > - :moneybag:, for the venture capital circuit
 > - :microscope:, for research grants
-> - :boot:, for bootstraped
+> - :boot:, for bootstrapped
 > - :busts_in_silhouette:, crowdfunding, donations, or Patreon like model
 
 - :microscope: [Dat Project](https://datproject.org/), [grant](https://datproject.org/about), [on GitHub](https://github.com/datproject): A distributed data community.
