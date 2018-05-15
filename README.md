@@ -26,6 +26,7 @@ Please help me grow this list :) You could:
 - :busts_in_silhouette: [Habitica](https://habitica.com/), [on GitHub](https://github.com/HabitRPG): a habit tracker app which treats your goals like a Role Playing Game. 
 - :boot: [Feedbin](https://feedbin.com/), [on GitHub](https://github.com/feedbin): a fast, simple RSS reader that delivers a great reading experience.
 - :boot: [Loomio](https://www.loomio.org/), [on GitHub](https://github.com/loomio): an open-source web application that helps groups of people to make decisions together.
+- :boot: [Maintainer Mountaineer](https://www.maintainer.io), [on GitHub](https://github.com/mntnr): maintenance and community building for FLOSS organizations
 - :busts_in_silhouette: [Mastodon](https://joinmastodon.org), [sponsors](https://joinmastodon.org/sponsors), [on GitHub](https://github.com/tootsuite): Social networking, back in your hands.
 - :boot: [Monica](https://www.monicahq.com/), [on GitHub](https://github.com/monicahq/monica): CRM for personal relationships.
 - :boot: [NextCloud](https://nextcloud.com/), [on GitHub](https://github.com/nextcloud): self-hosted personal cloud solution (file syncing, agenda, contact, etc.)
