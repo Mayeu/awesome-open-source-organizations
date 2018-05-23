@@ -36,6 +36,7 @@ Please help me grow this list :) You could:
 - :moneybag: [Rocket.Chat](https://rocket.chat/), [$5M](https://www.crunchbase.com/organization/rocket-chat), [on GitHub](https://github.com/RocketChat): the ultimate Free Open Source Solution for team communication.
 - :moneybag: [Sentry](https://sentry.io), [$10.5M](https://www.crunchbase.com/organization/sentry#section-overview), [on GitHub](https://github.com/getsentry): real-time crash reporting for your web apps, mobile apps, and games.
 - :boot: [Spectrum](https://spectrum.chat/), [on GitHub](https://github.com/withspectrum/spectrum): the community platform for the future.
+- :moneybag: [WSO2](https://wso2.com), [$45M](https://medium.com/@tylerjewell/wso2s-growth-story-and-why-open-source-is-the-only-way-to-solve-your-integration-challenges-32a72b173e0a), [on GitHub](https://github.com/wso2): WSO2 is a leading open source integration vendor that offers a complete platform to accelerate digital native initiatives.
 - :boot: [Zulip](https://zulipchat.com), [on GitHub](https://github.com/zulip/zulip): the world's most productive group chat
 
 ## Defunct
