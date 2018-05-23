@@ -30,8 +30,7 @@ Please help me grow this list :) You could:
 - :busts_in_silhouette: [Mastodon](https://joinmastodon.org), [sponsors](https://joinmastodon.org/sponsors), [on GitHub](https://github.com/tootsuite): Social networking, back in your hands.
 - :boot: [Monica](https://www.monicahq.com/), [on GitHub](https://github.com/monicahq/monica): CRM for personal relationships.
 - :boot: [Nextcloud](https://nextcloud.com/), [on GitHub](https://github.com/nextcloud): self-hosted personal cloud solution (file syncing, agenda, contact, etc.)
-- :boot: [Numenta](https://numenta.org/), [on GitHub](https://github.com/numenta
-): Brain-inspired machine intelligence algorithms.
+- :boot: [Numenta](https://numenta.org/), [on GitHub](https://github.com/numenta): Brain-inspired machine intelligence algorithms.
 - :boot: [Open Whisper Systems](https://www.signal.org/), [on GitHub](https://github.com/signalapp): creating Signal, a fast, simple, and secure communication app.
 - :moneybag: [Protocol Labs](https://protocol.ai/), [$3M](https://www.crunchbase.com/organization/protocol-labs), on GitHub at [IPFS](https://github.com/ipfs), [libp2p](https://github.com/libp2p), [IPLD](https://github.com/ipld), [Multiformats](https://github.com/multiformats): creating open source distributed protocol for the future of the internet.
 - :boot: [Redash](https://redash.io/), [on GitHub](https://github.com/getredash): a tool to make sense of your data (connect your data sources, query and visualize them). 
