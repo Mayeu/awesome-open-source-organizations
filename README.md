@@ -33,7 +33,7 @@ Please help me grow this list :) You could:
 - :boot: [Nextcloud](https://nextcloud.com/), [on GitHub](https://github.com/nextcloud): self-hosted personal cloud solution (file syncing, agenda, contact, etc.)
 - :boot: [Numenta](https://numenta.org/), [on GitHub](https://github.com/numenta): Brain-inspired machine intelligence algorithms.
 - :boot: [Open Whisper Systems](https://www.signal.org/), [on GitHub](https://github.com/signalapp): creating Signal, a fast, simple, and secure communication app.
-- :moneybag: [Puri.sm](https://puri.sm/), [on their Cogs](https://code.puri.sm/) & [on GitHub](https://github.com/purism): High-quality laptops that protect your freedom and privacy. [$5.6M](https://www.crunchbase.com/organization/purism)
+- :moneybag: [Puri.sm](https://puri.sm/), [$5.6M](https://www.crunchbase.com/organization/purism), [on their Cogs](https://code.puri.sm/) & [on GitHub](https://github.com/purism): High-quality laptops that protect your freedom and privacy.
 - :moneybag: [Protocol Labs](https://protocol.ai/), [$3M](https://www.crunchbase.com/organization/protocol-labs), on GitHub at [IPFS](https://github.com/ipfs), [libp2p](https://github.com/libp2p), [IPLD](https://github.com/ipld), [Multiformats](https://github.com/multiformats): creating open source distributed protocol for the future of the internet.
 - :boot: [Redash](https://redash.io/), [on GitHub](https://github.com/getredash): a tool to make sense of your data (connect your data sources, query and visualize them). 
 - :moneybag: [Rocket.Chat](https://rocket.chat/), [$5M](https://www.crunchbase.com/organization/rocket-chat), [on GitHub](https://github.com/RocketChat): the ultimate Free Open Source Solution for team communication.
