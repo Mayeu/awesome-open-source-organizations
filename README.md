@@ -25,6 +25,7 @@ Please help me grow this list :) You could:
 - :busts_in_silhouette: [Framasoft](https://framasoft.org/), [on their GitLab](https://git.framasoft.org/framasoft/): a network dedicated to globally promoting "free" and particularly free software.
 - :busts_in_silhouette: [Habitica](https://habitica.com/), [on GitHub](https://github.com/HabitRPG): a habit tracker app which treats your goals like a Role Playing Game. 
 - :boot: [Feedbin](https://feedbin.com/), [on GitHub](https://github.com/feedbin): a fast, simple RSS reader that delivers a great reading experience.
+- :boot: [Healthchecks](https://healthchecks.io/), [on GitHub](https://github.com/healthchecks/healthchecks): Monitoring for your nightly backups, weekly reports, cron jobs and background tasks.
 - :boot: [Impactasaurus](https://impactasaurus.org/), [on GitHub](https://github.com/impactasaurus): A simple tool for charities to measure and report on their social impact.
 - :busts_in_silhouette: [Keyboardio](https://shop.keyboard.io/), [on GitHub](https://github.com/keyboardio): an open source and hardware keyboard for uncompromising typists.
 - :boot: [Kopano](https://kopano.com/), [on their Bitbucket](https://stash.kopano.io/dashboard): Your Data, Your Terms. In control of your data with Kopano’s self-hosted collaboration suite.
