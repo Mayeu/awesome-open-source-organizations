@@ -19,6 +19,7 @@ Please help me grow this list :) You could:
 > - :boot:, for bootstrapped
 > - :busts_in_silhouette:, crowdfunding, donations, or Patreon like model
 
+- :boot: [Artsy](https://www.artsy.net), [on Github](https://github.com/artsy): the online platform for art collecting and education, which maintain a philosophy of keeping their work [Open by Default](http://artsy.github.io/open-source/).
 - :microscope: [Dat Project](https://datproject.org/), [grant](https://datproject.org/about), [on GitHub](https://github.com/datproject): A distributed data community.
 - :moneybag: [Discourse](https://discourse.org/), [seed](https://www.crunchbase.com/organization/discourse), [on GitHub](https://github.com/discourse): The 100% open source discussion platform built for the next decade of the Internet.
 - :boot: [EteSync](https://www.etesync.com/), [on GitHub](https://github.com/etesync): End-to-end encrypted & journaled sync for your contacts and calendars.
