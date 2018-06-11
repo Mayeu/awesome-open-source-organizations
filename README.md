@@ -19,6 +19,7 @@ Please help me grow this list :) You could:
 > - :boot:, for bootstraped
 > - :busts_in_silhouette:, crowdfunding, donations, or Patreon like model
 
+- :boot: [Artsy](https://www.artsy.net), [on Github](https://github.com/artsy): the online platform for art collecting and education, which maintain a philosophy of keeping their work [Open by Default](http://artsy.github.io/open-source/).
 - :microscope: [Dat Project](https://datproject.org/), [grant](https://datproject.org/about), [on GitHub](https://github.com/datproject): A distributed data community.
 - :moneybag: [Discourse](https://discourse.org/), [seed](https://www.crunchbase.com/organization/discourse), [on GitHub](https://github.com/discourse): The 100% open source discussion platform built for the next decade of the Internet.
 - :boot: [EteSync](https://www.etesync.com/), [on GitHub](https://github.com/etesync): End-to-end encrypted & journaled sync for your contacts and calendars.
@@ -35,7 +36,6 @@ Please help me grow this list :) You could:
 - :moneybag: [Sentry](https://sentry.io), [$10.5M](https://www.crunchbase.com/organization/sentry#section-overview), [on GitHub](https://github.com/getsentry): real-time crash reporting for your web apps, mobile apps, and games.
 - :boot: [Spectrum](https://spectrum.chat/), [on GitHub](https://github.com/withspectrum/spectrum): the community platform for the future.
 - :boot: [Zulip](https://zulipchat.com), [on GitHub](https://github.com/zulip/zulip): the world's most productive group chat
-- :boot: [Artsy](https://www.artsy.net), [on Github](https://github.com/artsy): the online platform for art collecting and education, which maintain a philosophy of keeping their work [Open by Default](http://artsy.github.io/open-source/).
 
 ## Defunct
 
