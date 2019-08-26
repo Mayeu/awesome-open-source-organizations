@@ -35,6 +35,7 @@ Please help me grow this list :) You could:
 - :busts_in_silhouette: [Mastodon](https://joinmastodon.org), [sponsors](https://joinmastodon.org/sponsors), [on GitHub](https://github.com/tootsuite): Social networking, back in your hands.
 - :boot: [Monica](https://www.monicahq.com/), [on GitHub](https://github.com/monicahq/monica): CRM for personal relationships.
 - :busts_in_silhouette: [Mycroft AI](https://mycroft.ai/), [on GitHub](https://github.com/MycroftAI): Open Source Voice Assistant
+- :boot: [Neuraxio](https://www.neuraxio.com/en/), [on GitHub](https://github.com/Neuraxio): machine-learning pipelines framework and time series processing solutions
 - :boot: [Nextcloud](https://nextcloud.com/), [on GitHub](https://github.com/nextcloud): self-hosted personal cloud solution (file syncing, agenda, contact, etc.)
 - :boot: [Numenta](https://numenta.org/), [on GitHub](https://github.com/numenta): Brain-inspired machine intelligence algorithms.
 - :boot: [Open Whisper Systems](https://www.signal.org/), [on GitHub](https://github.com/signalapp): creating Signal, a fast, simple, and secure communication app.
